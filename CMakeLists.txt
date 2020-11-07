@@ -3,4 +3,4 @@ project(passwdgen)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(passwdgen main.cpp)
+add_executable(passwdgen passwdgen.cpp)
